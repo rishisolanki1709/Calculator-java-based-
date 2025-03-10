@@ -1,1 +1,1 @@
-# Calculator-java-based-
+# Calculator (java based)
